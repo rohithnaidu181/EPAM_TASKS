@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class PlayerComparatorExample {
     public static void main(String[] args) {
         Player[] players = {
-            new Player("Vigneshwaran", 100),
+            new Player("Rohith", 100),
             new Player("adhav", 50),
             new Player("dhruv", 75),
             new Player("Virat", 75)

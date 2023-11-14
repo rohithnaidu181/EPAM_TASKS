@@ -2,7 +2,7 @@ package com.oops;
 
 public class PizzaShop {
     public static void main(String[] args) {
-        //  Vigneshwaran Ordered pizza with a Soft base and  toppings
+        //  Rohith Ordered pizza with a Soft base and  toppings
         PizzaBasePrice pizza = new PizzaBasePrice("Soft");
         pizza.addTopping("Tomato");
         pizza.addTopping("Mushrooms");
